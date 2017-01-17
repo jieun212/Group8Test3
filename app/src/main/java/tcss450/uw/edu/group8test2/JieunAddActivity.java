@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class JieunAddActivity extends AppCompatActivity {
 
+    // I added comment!!
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
